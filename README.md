@@ -2,6 +2,8 @@
 Data for public transportation tickets' costs from numbeo.com.
 The costs are given in USD and are downloaded on 13.11.16.
 
+
+
 City: city name as on numbeo.com
 
 One.ticket: one-time public transportation ticket cost, USD

@@ -1,0 +1,570 @@
+"","city","one.ticket","month.ticket","country","ratio"
+"1","Leuven",2.17,42.34,"Belgium",19.5115207373272
+"2","Saint-Petersburg",0.48,34.03,"Russia",70.8958333333333
+"3","Algiers",0.22,10.83,"Algeria",49.2272727272727
+"4","Eugene",1.75,50,"United States",28.5714285714286
+"5","Banja-Luka",0.86,20.25,"Bosnia And Herzegovina",23.546511627907
+"6","Guadalajara",0.34,13.93,"Mexico",40.9705882352941
+"7","Mexico-City",0.24,14.41,"Mexico",60.0416666666667
+"8","Monterrey",0.58,18.01,"Mexico",31.051724137931
+"9","Sarajevo",0.89,28.86,"Bosnia And Herzegovina",32.4269662921348
+"10","Yekaterinburg",0.37,23,"Russia",62.1621621621622
+"11","Salem",1.6,45,"United States",28.125
+"12","Belgrade",0.79,28.31,"Serbia",35.8354430379747
+"13","Corfu",1.74,32.57,"Greece",18.7183908045977
+"14","Tijuana",0.55,24.02,"Mexico",43.6727272727273
+"15","Selangor",0.46,22.88,"Malaysia",49.7391304347826
+"16","Nassau",1.25,33.75,"Bahamas",27
+"17","Plovdiv",0.56,16.67,"Bulgaria",29.7678571428571
+"18","Sofia",0.89,27.79,"Bulgaria",31.2247191011236
+"19","Varna",0.56,22.23,"Bulgaria",39.6964285714286
+"20","Novi-Sad",0.49,17.69,"Serbia",36.1020408163265
+"21","Luanda",3,100,"Angola",33.3333333333333
+"22","Malta",2.17,28.23,"Malta",13.0092165898618
+"23","Podgorica",0.76,27.14,"Montenegro",35.7105263157895
+"24","Tokyo",1.88,93.78,"Japan",49.8829787234043
+"25","Osijek",1.59,39.86,"Croatia",25.0691823899371
+"26","Pula",1.59,33.34,"Croatia",20.9685534591195
+"27","Rijeka",1.45,40.58,"Croatia",27.9862068965517
+"28","Almaty",0.23,17.58,"Kazakhstan",76.4347826086956
+"29","Astana",0.26,14.65,"Kazakhstan",56.3461538461538
+"30","Bratislava",0.98,29.21,"Slovakia",29.8061224489796
+"31","Zagreb",1.45,52.18,"Croatia",35.9862068965517
+"32","Limassol",1.63,43.43,"Cyprus",26.6441717791411
+"33","Abu-Dhabi",0.54,21.78,"United Arab Emirates",40.3333333333333
+"34","Nicosia",1.63,43.43,"Cyprus",26.6441717791411
+"35","Dubai",1.36,68.07,"United Arab Emirates",50.0514705882353
+"36","Brno",1,22.1,"Czech Republic",22.1
+"37","Macao",0.4,21.4,"Macao",53.5
+"38","Panama-City",0.25,27.75,"Panama",111
+"39","Olomouc",0.56,14.06,"Czech Republic",25.1071428571429
+"40","Ostrava",0.8,20.09,"Czech Republic",25.1125
+"41","Plzen",0.72,17.8,"Czech Republic",24.7222222222222
+"42","Prague",0.96,22.1,"Czech Republic",23.0208333333333
+"43","Johor-Bahru",0.46,11.44,"Malaysia",24.8695652173913
+"44","Gaborone",0.33,7.18,"Botswana",21.7575757575758
+"45","Kuala-Lumpur",0.57,22.88,"Malaysia",40.140350877193
+"46","Aalborg",3.21,55.17,"Denmark",17.1869158878505
+"47","Kuching",0.46,16.02,"Malaysia",34.8260869565217
+"48","Arhus",2.92,54.73,"Denmark",18.7431506849315
+"49","Copenhagen",3.5,58.38,"Denmark",16.68
+"50","Ljubljana",1.3,40.17,"Slovenia",30.9
+"51","Maribor",1.19,28.76,"Slovenia",24.1680672268908
+"52","Odense",3.36,57.65,"Denmark",17.1577380952381
+"53","Sioux-Falls",1,30,"United States",30
+"54","Male",0.36,21.62,"Maldives",60.0555555555556
+"55","Pisa",1.3,26.27,"Italy",20.2076923076923
+"56","Alicante",1.57,32.57,"Spain",20.7452229299363
+"57","Barcelona",2.28,56.46,"Spain",24.7631578947368
+"58","Bilbao",1.54,40.17,"Spain",26.0844155844156
+"59","Den-Haag",3.8,81.43,"Netherlands",21.4289473684211
+"60","Lima",0.44,29.41,"Peru",66.8409090909091
+"61","Hamilton-Bermuda",4,67,"Bermuda",16.75
+"62","Granada",1.3,44.51,"Spain",34.2384615384615
+"63","Las-Palmas",1.52,35.29,"Spain",23.2171052631579
+"64","Ulaanbaatar",0.25,20.1,"Mongolia",80.4
+"65","Madrid",1.63,59.28,"Spain",36.3680981595092
+"66","Tallinn",1.74,24.97,"Estonia",14.3505747126437
+"67","Tartu",1.09,17.91,"Estonia",16.4311926605505
+"68","Palma-De-Mallorca",1.63,26.6,"Spain",16.319018404908
+"69","Irvine",2,64.5,"United States",32.25
+"70","Sevilla",1.52,37.19,"Spain",24.4671052631579
+"71","Valencia",1.63,48.86,"Spain",29.9754601226994
+"72","Navi-Mumbai",0.3,4.45,"India",14.8333333333333
+"73","Zaragoza-Saragossa",1.47,39.63,"Spain",26.9591836734694
+"74","San-Juan",1.5,45,"Puerto Rico",30
+"75","Fayetteville",2.5,40,"United States",16
+"76","Belo-Horizonte",1.09,44.16,"Brazil",40.5137614678899
+"77","Uppsala",3.52,82.52,"Sweden",23.4431818181818
+"78","Campinas",1.12,44.74,"Brazil",39.9464285714286
+"79","Basel",3.65,76.96,"Switzerland",21.0849315068493
+"80","Bern",3.54,77.98,"Switzerland",22.0282485875706
+"81","Geneva",3.04,70.89,"Switzerland",23.3190789473684
+"82","Providence",2,64.5,"United States",32.25
+"83","Stockholm",3.96,86.92,"Sweden",21.949494949495
+"84","Buenos-Aires",0.43,16.45,"Argentina",38.2558139534884
+"85","Lausanne",3.65,72.41,"Switzerland",19.8383561643836
+"86","San-Jose-Costa-Rica",0.72,54.19,"Costa Rica",75.2638888888889
+"87","Casablanca",0.6,20.15,"Morocco",33.5833333333333
+"88","Curitiba",1.09,47.92,"Brazil",43.9633027522936
+"89","Lugano",2.13,60.76,"Switzerland",28.5258215962441
+"90","Chania",1.63,32.57,"Greece",19.9815950920245
+"91","Lodz",0.64,19.65,"Poland",30.703125
+"92","Montreal",2.4,60.59,"Canada",25.2458333333333
+"93","Sao-Paulo",1.12,42.39,"Brazil",37.8482142857143
+"94","Fortaleza",0.81,44.16,"Brazil",54.5185185185185
+"95","Gothenburg",2.86,66.01,"Sweden",23.0804195804196
+"96","Dnipropetrovsk",0.2,8.1,"Ukraine",40.5
+"97","Nice",1.63,32.57,"France",19.9815950920245
+"98","Rabat",0.6,20.15,"Morocco",33.5833333333333
+"99","Zug",3.65,65.83,"Switzerland",18.0356164383562
+"100","Zurich",4.25,86.08,"Switzerland",20.2541176470588
+"101","Cuneo",2.58,76,"Italy",29.4573643410853
+"102","Stavanger",4.17,83.38,"Norway",19.9952038369305
+"103","Ankara",0.77,33.84,"Turkey",43.948051948052
+"104","Antalya",0.62,36.92,"Turkey",59.5483870967742
+"105","Pristina",0.43,8.69,"Kosovo (Disputed Territory)",20.2093023255814
+"106","Chattanooga",1.5,30,"United States",20
+"107","Medellin",0.65,19.54,"Colombia",30.0615384615385
+"108","Bursa",0.77,26.15,"Turkey",33.961038961039
+"109","Constanta",0.36,15.2,"Romania",42.2222222222222
+"110","Pattaya",0.28,10.88,"Thailand",38.8571428571429
+"111","Jerusalem",1.54,64.12,"Israel",41.6363636363636
+"112","Knoxville",1.5,37.5,"United States",25
+"113","Kingston",2.03,53.2,"Canada",26.2068965517241
+"114","Bellingham",1,25,"United States",25
+"115","Malaga",1.41,43.37,"Spain",30.758865248227
+"116","Istanbul",0.72,55.38,"Turkey",76.9166666666667
+"117","Espoo",3.47,56.89,"Finland",16.3948126801153
+"118","Porto-Alegre",1.1,50.04,"Brazil",45.4909090909091
+"119","Izmir",0.74,34.3,"Turkey",46.3513513513513
+"120","Helsinki",3.26,56.89,"Finland",17.4509202453988
+"121","Asuncion",0.4,24.91,"Paraguay",62.275
+"122","Recife",0.82,43.27,"Brazil",52.7682926829268
+"123","Concepcion",0.71,45.22,"Chile",63.6901408450704
+"124","Rio-De-Janeiro",1.12,47.1,"Brazil",42.0535714285714
+"125","Kochi",0.14,3.71,"India",26.5
+"126","Sharjah",2.72,81.68,"United Arab Emirates",30.0294117647059
+"127","Oulu",3.58,57,"Finland",15.9217877094972
+"128","Treviso",1.63,54.29,"Italy",33.3067484662577
+"129","Kathmandu",0.19,9.8,"Nepal",51.5789473684211
+"130","Cordoba",0.66,45,"Argentina",68.1818181818182
+"131","Tampere",3.26,53.2,"Finland",16.319018404908
+"132","Burlington",1.25,46,"United States",36.8
+"133","Turku",3.26,56.46,"Finland",17.319018404908
+"134","Barrie",2.22,48.77,"Canada",21.9684684684685
+"135","Burlington-Canada",2.49,73.89,"Canada",29.6746987951807
+"136","Heraklion",1.3,48.86,"Greece",37.5846153846154
+"137","Kharkiv",0.19,4.28,"Ukraine",22.5263157894737
+"138","Calgary",2.33,73.15,"Canada",31.3948497854077
+"139","Kiev",0.16,8.57,"Ukraine",53.5625
+"140","Grenoble",1.63,55.81,"France",34.239263803681
+"141","Brasilia",1.18,44.74,"Brazil",37.9152542372881
+"142","Edmonton",2.4,66.5,"Canada",27.7083333333333
+"143","Lille",1.74,54.29,"France",31.2011494252874
+"144","Guelph",2.22,57.27,"Canada",25.7972972972973
+"145","Lyon",1.95,65.14,"France",33.4051282051282
+"146","Hamilton",2.03,69.9,"Canada",34.4334975369458
+"147","Marseille",1.63,40.28,"France",24.7116564417178
+"148","Halifax",1.85,57.64,"Canada",31.1567567567568
+"149","Kelowna",1.85,48.03,"Canada",25.9621621621622
+"150","Montpellier",1.63,54.29,"France",33.3067484662577
+"151","Kitchener",2.31,60.59,"Canada",26.2294372294372
+"152","London-Canada",2.03,59.85,"Canada",29.4827586206897
+"153","Nantes",1.74,68.4,"France",39.3103448275862
+"154","Odessa",0.2,13.48,"Ukraine",67.4
+"155","Thiruvananthapuram",0.12,5.19,"India",43.25
+"156","Paris",1.95,76,"France",38.974358974359
+"157","Mississauga",2.59,96.06,"Canada",37.0888030888031
+"158","Tromso",5.96,81,"Norway",13.5906040268456
+"159","Moncton",1.66,45.81,"Canada",27.5963855421687
+"160","Strasbourg",1.85,52.55,"France",28.4054054054054
+"161","Ottawa",2.62,76.29,"Canada",29.118320610687
+"162","Thessaloniki",1.09,32.57,"Greece",29.8807339449541
+"163","Regina",2.22,62.07,"Canada",27.9594594594595
+"164","Kosice",0.65,21.71,"Slovakia",33.4
+"165","Toulouse",1.74,50.38,"France",28.9540229885057
+"166","Akron",1.25,47.5,"United States",38
+"167","Albuquerque",1,30,"United States",30
+"168","Aachen",2.17,54.29,"Germany",25.0184331797235
+"169","Split",1.59,42.03,"Croatia",26.4339622641509
+"170","Anchorage",2,60,"United States",30
+"171","Saskatoon",2.29,59.85,"Canada",26.1353711790393
+"172","Arlington",3.5,125,"United States",35.7142857142857
+"173","Windhoek",0.7,12.23,"Namibia",17.4714285714286
+"174","Aberdeen",3.28,75.61,"United Kingdom",23.0518292682927
+"175","Atlanta",2.5,95,"United States",38
+"176","Berlin",2.93,87.94,"Germany",30.0136518771331
+"177","Surrey",2.03,71.38,"Canada",35.1625615763547
+"178","Austin",1.75,41.25,"United States",23.5714285714286
+"179","Auckland",3.2,99.63,"New Zealand",31.134375
+"180","Toronto",2.4,104.56,"Canada",43.5666666666667
+"181","Bonn",3.04,86.86,"Germany",28.5723684210526
+"182","Bakersfield",1.75,36,"United States",20.5714285714286
+"183","Vancouver",2.03,67.24,"Canada",33.1231527093596
+"184","Baltimore",1.7,68,"United States",40
+"185","Christchurch",2.49,71.16,"New Zealand",28.578313253012
+"186","Victoria",1.85,62.81,"Canada",33.9513513513513
+"187","Savannah",1.5,50,"United States",33.3333333333333
+"188","Bremen",2.93,67.31,"Germany",22.9726962457338
+"189","Birmingham-AL",1.88,44.5,"United States",23.6702127659574
+"190","Windsor",2.03,64.29,"Canada",31.6699507389163
+"191","Belfast",2.52,63.77,"United Kingdom",25.3055555555556
+"192","Winnipeg",1.96,65.23,"Canada",33.280612244898
+"193","Boise",1,35,"United States",35
+"194","Hamilton-New-Zealand",2.06,119.91,"New Zealand",58.2087378640777
+"195","Boston",2.5,75,"United States",30
+"196","Birmingham",3.02,75.61,"United Kingdom",25.0364238410596
+"197","Cologne",3.04,97.71,"Germany",32.141447368421
+"198","Buffalo",2,75,"United States",37.5
+"199","Charlotte",2.23,88,"United States",39.4618834080717
+"200","Bournemouth",3.02,69.31,"United Kingdom",22.9503311258278
+"201","Chicago",2.25,100,"United States",44.4444444444444
+"202","Bristol",1.89,83.17,"United Kingdom",44.005291005291
+"203","Dresden",2.5,64.06,"Germany",25.624
+"204","Cleveland",2.5,85,"United States",34
+"205","Colorado-Springs",1.8,61.5,"United States",34.1666666666667
+"206","Cambridge",3.02,68.05,"United Kingdom",22.5331125827815
+"207","Frankfurt",3.04,93.37,"Germany",30.7138157894737
+"208","Columbus",2,62,"United States",31
+"209","Cardiff",2.27,56.71,"United Kingdom",24.9823788546256
+"210","Corpus-Christi",0.75,40,"United States",53.3333333333333
+"211","Dallas",2.5,80,"United States",32
+"212","Denver",2.6,99,"United States",38.0769230769231
+"213","Des-Moines",1.75,44,"United States",25.1428571428571
+"214","Coventry",2.52,63.01,"United Kingdom",25.0039682539683
+"215","Tauranga",2.56,58.28,"New Zealand",22.765625
+"216","Detroit",2,49.5,"United States",24.75
+"217","Hamburg",3.37,91.2,"Germany",27.0623145400593
+"218","Durham",1,35,"United States",35
+"219","Playa-del-Carmen",0.34,19.14,"Mexico",56.2941176470588
+"220","Bolzano-Bozen",1.63,21.71,"Italy",13.319018404908
+"221","Fort-Worth",4,90,"United States",22.5
+"222","Charleston",2,40,"United States",20
+"223","Wellington",2.49,87.89,"New Zealand",35.2971887550201
+"224","Fremont",2.55,89,"United States",34.9019607843137
+"225","Dundee",2.39,44.11,"United Kingdom",18.4560669456067
+"226","Fresno",1.25,48,"United States",38.4
+"227","Waterloo",2.22,58.75,"Canada",26.463963963964
+"228","Santiago",1.06,50.19,"Chile",47.3490566037736
+"229","Fort-Collins",1.25,25,"United States",20
+"230","Grand-Rapids",1.75,43.5,"United States",24.8571428571429
+"231","Edinburgh",2.02,68.05,"United Kingdom",33.6881188118812
+"232","Karlsruhe",2.61,61.89,"Germany",23.7126436781609
+"233","Merida",0.34,20.37,"Mexico",59.9117647058824
+"234","Greensboro",1.62,58,"United States",35.8024691358025
+"235","Exeter",3.02,63,"United Kingdom",20.8609271523179
+"236","Fort-McMurray",0.92,33.25,"Canada",36.1413043478261
+"237","Glasgow",2.52,56.71,"United Kingdom",22.5039682539683
+"238","Honolulu",2.5,60,"United States",24
+"239","Houston",1.25,45.25,"United States",36.2
+"240","Leipzig",2.71,72.74,"Germany",26.8413284132841
+"241","Indianapolis",1.88,60,"United States",31.9148936170213
+"242","Mannheim",2.71,73.83,"Germany",27.2435424354244
+"243","Bogota",0.65,26.05,"Colombia",40.0769230769231
+"244","Jackson",2,40,"United States",20
+"245","Jacksonville",1.5,50,"United States",33.3333333333333
+"246","Munich",2.93,69.92,"Germany",23.8634812286689
+"247","Jersey-City",2.7,89,"United States",32.962962962963
+"248","Leeds",3.21,69.31,"United Kingdom",21.5919003115265
+"249","Cali",0.59,31.26,"Colombia",52.9830508474576
+"250","Kansas-City",1.5,50,"United States",33.3333333333333
+"251","Leicester",3.15,47.26,"United Kingdom",15.0031746031746
+"252","Las-Vegas",2.12,65,"United States",30.6603773584906
+"253","Nuremberg",3.26,76,"Germany",23.3128834355828
+"254","The-Hague",3.8,81.43,"Netherlands",21.4289473684211
+"255","London",3.15,163.82,"United Kingdom",52.0063492063492
+"256","Harrisburg",1.75,49,"United States",28
+"257","Little-Rock",3,36,"United States",12
+"258","Los-Angeles",1.75,100,"United States",57.1428571428571
+"259","Louisville",1.5,50,"United States",33.3333333333333
+"260","Manchester",3.53,64.27,"United Kingdom",18.2067988668555
+"261","Madison",2,58,"United States",29
+"262","Milton-Keynes",2.9,58.6,"United Kingdom",20.2068965517241
+"263","Valletta",1.63,29.31,"Malta",17.9815950920245
+"264","Newcastle-Upon-Tyne",3.15,69.31,"United Kingdom",22.0031746031746
+"265","Miami",2.25,112,"United States",49.7777777777778
+"266","Milwaukee",2.25,64,"United States",28.4444444444444
+"267","Minneapolis",2,79.5,"United States",39.75
+"268","Northampton",2.9,60.49,"United Kingdom",20.8586206896552
+"269","Mobile",1,40,"United States",40
+"270","Norwich",3.4,78.13,"United Kingdom",22.9794117647059
+"271","Nottingham",2.52,63.01,"United Kingdom",25.0039682539683
+"272","Boulder",2.53,82.5,"United States",32.6086956521739
+"273","New-Orleans",1.25,55,"United States",44
+"274","New-York",2.75,116.5,"United States",42.3636363636364
+"275","Oxford",2.77,68.36,"United Kingdom",24.6787003610108
+"276","Stuttgart",3.04,88.87,"Germany",29.2335526315789
+"277","Lagos",0.48,43.1,"Nigeria",89.7916666666667
+"278","Newark",1.55,66,"United States",42.5806451612903
+"279","Norfolk",1.75,60,"United States",34.2857142857143
+"280","Reading",2.39,74.35,"United Kingdom",31.1087866108787
+"281","Oakland",2.1,75,"United States",35.7142857142857
+"282","Oklahoma-City",1.38,22.5,"United States",16.304347826087
+"283","Chandigarh",0.22,5.34,"India",24.2727272727273
+"284","Orlando",2,50,"United States",25
+"285","Sheffield",2.52,60.49,"United Kingdom",24.0039682539683
+"286","Athens",1.52,32.57,"Greece",21.4276315789474
+"287","Philadelphia",2.25,91,"United States",40.4444444444444
+"288","Phoenix",2,64,"United States",32
+"289","Southampton",3.15,69.31,"United Kingdom",22.0031746031746
+"290","Pittsburgh",2.5,97.5,"United States",39
+"291","Patras",1.3,32.57,"Greece",25.0538461538462
+"292","Plano",4.75,85,"United States",17.8947368421053
+"293","Portland",2.5,100,"United States",40
+"294","Raleigh",1.5,45,"United States",30
+"295","Santa-Rosa",1.44,50,"United States",34.7222222222222
+"296","Reno",2,65,"United States",32.5
+"297","Rochester",1,56,"United States",56
+"298","Sacramento",2.75,100,"United States",36.3636363636364
+"299","Budapest",1.23,33.39,"Hungary",27.1463414634146
+"300","Saint-Louis",2.5,78,"United States",31.2
+"301","Debrecen",1.23,22.84,"Hungary",18.5691056910569
+"302","Saint-Paul",2.25,60,"United States",26.6666666666667
+"303","Saint-Petersburg-FL",2.5,65,"United States",26
+"304","Salt-Lake-City",2.5,83.75,"United States",33.5
+"305","San-Antonio",1.3,37.5,"United States",28.8461538461538
+"306","Quebec-City",2.4,62.07,"Canada",25.8625
+"307","San-Diego",2.5,72,"United States",28.8
+"308","San-Francisco",2.25,70,"United States",31.1111111111111
+"309","San-Jose",2,70,"United States",35
+"310","York",2.52,56.08,"United Kingdom",22.2539682539683
+"311","Seattle",2.75,99,"United States",36
+"312","Shreveport",1.5,40,"United States",26.6666666666667
+"313","Spokane",1.5,40,"United States",26.6666666666667
+"314","Tacoma",2.12,64.5,"United States",30.4245283018868
+"315","Malmo",2.42,54.9,"Sweden",22.6859504132231
+"316","Tampa",2,65,"United States",32.5
+"317","Hartford",1.5,47.5,"United States",31.6666666666667
+"318","Tucson",1.5,42,"United States",28
+"319","Tulsa",1.5,40,"United States",26.6666666666667
+"320","Virginia-Beach",1.88,50,"United States",26.5957446808511
+"321","Washington",3,200,"United States",66.6666666666667
+"322","Wichita",1.9,50,"United States",26.3157894736842
+"323","Columbia",1.5,40,"United States",26.6666666666667
+"324","Montevideo",0.99,42.57,"Uruguay",43
+"325","Kota-Kinabalu",0.46,22.88,"Malaysia",49.7391304347826
+"326","Kigali",0.3,9.76,"Rwanda",32.5333333333333
+"327","Brighton",3.15,86.95,"United Kingdom",27.6031746031746
+"328","Reykjavik",3.74,97.16,"Iceland",25.9786096256684
+"329","Caracas",0.17,5,"Venezuela",29.4117647058824
+"330","Cancun",0.49,19.22,"Mexico",39.2244897959184
+"331","Asheville",1.38,22.5,"United States",16.304347826087
+"332","Cebu",0.14,20.43,"Philippines",145.928571428571
+"333","Bath",2.77,63.01,"United Kingdom",22.7472924187726
+"334","Cork",2.28,89.52,"Ireland",39.2631578947368
+"335","Davao",0.16,20.43,"Philippines",127.6875
+"336","Dublin",2.93,130.29,"Ireland",44.4675767918089
+"337","Heidelberg",2.61,72.85,"Germany",27.911877394636
+"338","Galway",2.28,78.17,"Ireland",34.2850877192982
+"339","Penang",0.54,18.31,"Malaysia",33.9074074074074
+"340","Santo-Domingo",0.54,17.3,"Dominican Republic",32.037037037037
+"341","Limerick",2.17,79.15,"Ireland",36.4746543778802
+"342","Adelaide",2.87,90.44,"Australia",31.5121951219512
+"343","Makati",0.31,10.21,"Philippines",32.9354838709677
+"344","Cyberjaya",0.46,13.73,"Malaysia",29.8478260869565
+"345","Selangor",0.46,22.88,"Malaysia",49.7391304347826
+"346","Yerevan",0.21,12.57,"Armenia",59.8571428571429
+"347","Fairfax",4.6,96.5,"United States",20.9782608695652
+"348","Manila",0.36,10.21,"Philippines",28.3611111111111
+"349","Brisbane",3.77,113.24,"Australia",30.0371352785146
+"350","Alessandria",1.63,45.6,"Italy",27.9754601226994
+"351","Cuenca",0.25,15,"Ecuador",60
+"352","Cairns",3.32,113.24,"Australia",34.1084337349398
+"353","Canberra",3.02,75.49,"Australia",24.9966887417219
+"354","Darwin",1.51,30.2,"Australia",20
+"355","Manama",0.66,26.53,"Bahrain",40.1969696969697
+"356","Gold-Coast",3.21,83.04,"Australia",25.8691588785047
+"357","Guayaquil",0.25,10,"Ecuador",40
+"358","Hobart",2.34,56.62,"Australia",24.1965811965812
+"359","Quezon-City",0.2,8.17,"Philippines",40.85
+"360","Melbourne",2.94,104.63,"Australia",35.5884353741497
+"361","Perth",3.02,96.25,"Australia",31.8708609271523
+"362","Bari",1.09,38,"Italy",34.8623853211009
+"363","Bergamo",1.63,38,"Italy",23.3128834355828
+"364","Sydney",3.02,120.78,"Australia",39.9933774834437
+"365","Bologna",1.41,39.09,"Italy",27.7234042553192
+"366","Brescia",1.52,38,"Italy",25
+"367","Alexandria",0.12,9.73,"Egypt",81.0833333333333
+"368","Cagliari",1.3,32.57,"Italy",25.0538461538462
+"369","Quito",0.25,10,"Ecuador",40
+"370","Catania",1.09,43.43,"Italy",39.8440366972477
+"371","Wollongong",2.26,57.75,"Australia",25.5530973451327
+"372","Ferrara",2.44,81.43,"Italy",33.3729508196721
+"373","Florence",1.3,38,"Italy",29.2307692307692
+"374","Genoa",1.63,49.94,"Italy",30.638036809816
+"375","Paphos",1.63,59.71,"Cyprus",36.6319018404908
+"376","Milan",1.63,38,"Italy",23.3128834355828
+"377","Cairo-Egypt",0.12,3.65,"Egypt",30.4166666666667
+"378","Modena",1.63,45.06,"Italy",27.6441717791411
+"379","Florianopolis",1.03,51.52,"Brazil",50.0194174757282
+"380","Naples",1.09,43.43,"Italy",39.8440366972477
+"381","Baku",0.12,7.05,"Azerbaijan",58.75
+"382","Padova",1.41,42.34,"Italy",30.0283687943262
+"383","Portland-ME",1.5,45,"United States",30
+"384","Palermo",1.52,33.66,"Italy",22.1447368421053
+"385","Parma",1.3,30.4,"Italy",23.3846153846154
+"386","Perugia",2.17,70.57,"Italy",32.5207373271889
+"387","Albany",1.5,65,"United States",43.3333333333333
+"388","Reggio-Nell'emilia",2.44,48.86,"Italy",20.0245901639344
+"389","Mangalore",0.15,3.71,"India",24.7333333333333
+"390","Rome",1.63,38,"Italy",23.3128834355828
+"391","Dayton",1.75,55,"United States",31.4285714285714
+"392","Newcastle",2.87,30.2,"Australia",10.5226480836237
+"393","Trento",1.3,32.57,"Italy",25.0538461538462
+"394","Trieste",1.47,38,"Italy",25.8503401360544
+"395","Nasik",0.2,4.08,"India",20.4
+"396","Turin",1.63,41.26,"Italy",25.3128834355828
+"397","Venice",2.99,42.34,"Italy",14.1605351170569
+"398","Verona",1.47,40.17,"Italy",27.3265306122449
+"399","Vicenza",2.17,54.29,"Italy",25.0184331797235
+"400","Syracuse",2,91.5,"United States",45.75
+"401","Greenville",2,27,"United States",13.5
+"402","Beersheba",1.15,52.13,"Israel",45.3304347826087
+"403","Gainesville",1.5,60,"United States",40
+"404","Fort-Myers",1.5,37.5,"United States",25
+"405","Santa-Cruz",2,65,"United States",32.5
+"406","Singapore",1.27,70.81,"Singapore",55.755905511811
+"407","Berkeley",2.1,62.5,"United States",29.7619047619048
+"408","Springfield",1.25,36.5,"United States",29.2
+"409","Busan",1.03,47.15,"South Korea",45.7766990291262
+"410","San-Salvador",0.25,25,"El Salvador",100
+"411","Dhaka",0.38,12.73,"Bangladesh",33.5
+"412","Riga",1.25,54.29,"Latvia",43.432
+"413","Tehran",0.2,18,"Iran",90
+"414","Nis",0.53,17.51,"Serbia",33.0377358490566
+"415","Liverpool",2.77,63.01,"United Kingdom",22.7472924187726
+"416","Vancouver-WA",2.25,92.5,"United States",41.1111111111111
+"417","Seoul",1.07,49.29,"South Korea",46.0654205607477
+"418","Al-Khobar",0.67,53.33,"Saudi Arabia",79.5970149253731
+"419","Plymouth",3.15,61.75,"United Kingdom",19.6031746031746
+"420","Phnom-Penh",2,19.85,"Cambodia",9.925
+"421","Bali",0.36,28.88,"Indonesia",80.2222222222222
+"422","Colombo",0.13,6.43,"Sri Lanka",49.4615384615385
+"423","Red-Deer",1.85,49.51,"Canada",26.7621621621622
+"424","Kaunas",0.87,26.42,"Lithuania",30.367816091954
+"425","Addis-Ababa",0.25,10,"Ethiopia",40
+"426","Huntsville",4,26,"United States",6.5
+"427","Beijing",0.59,29.36,"China",49.7627118644068
+"428","Cape-Town",0.7,23.42,"South Africa",33.4571428571429
+"429","Durban",0.77,27.96,"South Africa",36.3116883116883
+"430","Vilnius",1.09,31.49,"Lithuania",28.8899082568807
+"431","Johannesburg",1.09,34.32,"South Africa",31.4862385321101
+"432","Chengdu",0.29,14.68,"China",50.6206896551724
+"433","Port-Elizabeth",1.05,27.96,"South Africa",26.6285714285714
+"434","Guangzhou",0.29,44.04,"China",151.862068965517
+"435","Luxembourg",2.17,27.14,"Luxembourg",12.5069124423963
+"436","Haifa",1.54,57.34,"Israel",37.2337662337662
+"437","Ann-Arbor",1.5,58,"United States",38.6666666666667
+"438","Ramat-Gan",1.72,59.95,"Israel",34.8546511627907
+"439","Kaohsiung",0.63,28.27,"Taiwan",44.8730158730159
+"440","Tel-Aviv-yafo",1.54,62.56,"Israel",40.6233766233766
+"441","Taipei",0.63,31.41,"Taiwan",49.8571428571429
+"442","Guildford",2.71,94.51,"United Kingdom",34.8745387453875
+"443","Shanghai",0.59,29.36,"China",49.7627118644068
+"444","Bangkok",0.92,35.33,"Thailand",38.4021739130435
+"445","Skopje",0.62,23.84,"Macedonia",38.4516129032258
+"446","Chiang-Mai",0.57,28.27,"Thailand",49.5964912280702
+"447","Melbourne-FL",1.5,42,"United States",28
+"448","Shenzhen",0.29,36.7,"China",126.551724137931
+"449","Pensacola",1.75,40,"United States",22.8571428571429
+"450","Amman",0.71,42.34,"Jordan",59.6338028169014
+"451","Phuket",0.85,50.88,"Thailand",59.8588235294118
+"452","Portsmouth",3.53,64.27,"United Kingdom",18.2067988668555
+"453","Tiruchirapalli-Trichy",0.15,7.41,"India",49.4
+"454","Dar-Es-Salaam",0.23,41.55,"Tanzania",180.652173913043
+"455","Valenzuela",0.16,3.57,"Philippines",22.3125
+"456","Kazan",0.37,11.09,"Russia",29.972972972973
+"457","Santa-Barbara",1.75,52,"United States",29.7142857142857
+"458","Queretaro",0.41,19.22,"Mexico",46.8780487804878
+"459","Everett",2.5,43,"United States",17.2
+"460","Guatemala-City",0.17,16.67,"Guatemala",98.0588235294118
+"461","Sliema",1.63,28.23,"Malta",17.319018404908
+"462","Bhubaneswar",0.26,4.82,"India",18.5384615384615
+"463","Chisinau",0.14,9.04,"Moldova",64.5714285714286
+"464","Allentown",2,47.5,"United States",23.75
+"465","Hanoi",0.31,8.96,"Vietnam",28.9032258064516
+"466","Ho-Chi-Minh-City",0.27,5.37,"Vietnam",19.8888888888889
+"467","Kuwait-City",0.82,49.47,"Kuwait",60.3292682926829
+"468","New-Haven",2,50,"United States",25
+"469","Tunis",0.22,13.25,"Tunisia",60.2272727272727
+"470","Amsterdam",3.15,92.29,"Netherlands",29.2984126984127
+"471","Eindhoven",3.8,54.29,"Netherlands",14.2868421052632
+"472","Groningen",2.17,70.57,"Netherlands",32.5207373271889
+"473","Leiden",2.17,108.57,"Netherlands",50.0322580645161
+"474","Rotterdam",2.99,65.14,"Netherlands",21.7859531772575
+"475","Utrecht",2.71,66.23,"Netherlands",24.4391143911439
+"476","Beirut",1.33,45,"Lebanon",33.8345864661654
+"477","Bergen",4.29,89.34,"Norway",20.8251748251748
+"478","Kampala",0.57,38.24,"Uganda",67.0877192982456
+"479","Lexington",1,31.8,"United States",31.8
+"480","Oslo",3.81,82.19,"Norway",21.5721784776903
+"481","Trondheim",5.96,86.96,"Norway",14.5906040268456
+"482","Bydgoszcz",0.74,21.62,"Poland",29.2162162162162
+"483","Tallahassee",1.38,31.5,"United States",22.8260869565217
+"484","Krakow-Cracow",0.93,22.11,"Poland",23.7741935483871
+"485","Fort-Lauderdale",2,65,"United States",32.5
+"486","Gdansk",0.79,22.11,"Poland",27.9873417721519
+"487","Nashville",1.7,82,"United States",48.2352941176471
+"488","Gdynia",0.74,22.11,"Poland",29.8783783783784
+"489","Nairobi",0.69,29.48,"Kenya",42.7246376811594
+"490","Katowice",0.79,29.48,"Poland",37.3164556962025
+"491","Tbilisi",0.2,12.12,"Georgia",60.6
+"492","Lublin",0.79,20.63,"Poland",26.1139240506329
+"493","Muscat",0.78,25.97,"Oman",33.2948717948718
+"494","Suzhou",0.29,22.02,"China",75.9310344827586
+"495","Poznan",0.87,25.79,"Poland",29.6436781609195
+"496","Szczecin",0.74,24.56,"Poland",33.1891891891892
+"497","Warsaw",1.08,27.02,"Poland",25.0185185185185
+"498","Wroclaw",0.74,22.11,"Poland",29.8783783783784
+"499","Dusseldorf",2.82,76,"Germany",26.9503546099291
+"500","West-Palm-Beach",2,60,"United States",30
+"501","Braga",1.68,33.66,"Portugal",20.0357142857143
+"502","Islamabad",0.19,10.98,"Pakistan",57.7894736842105
+"503","Noida",0.3,10.38,"India",34.6
+"504","Coimbra",1.74,38,"Portugal",21.8390804597701
+"505","Karachi",0.19,11.46,"Pakistan",60.3157894736842
+"506","Hong-Kong",1.29,58.01,"Hong Kong",44.968992248062
+"507","Lahore",0.24,9.55,"Pakistan",39.7916666666667
+"508","Lisbon",1.63,39.09,"Portugal",23.9815950920245
+"509","Porto",1.41,34.74,"Portugal",24.6382978723404
+"510","Tirana",0.32,11.18,"Albania",34.9375
+"511","Goa",0.41,7.41,"India",18.0731707317073
+"512","Arad",0.48,15.64,"Romania",32.5833333333333
+"513","Brasov",0.48,16.84,"Romania",35.0833333333333
+"514","Bucharest",0.36,14.44,"Romania",40.1111111111111
+"515","Ahmedabad",0.3,6.3,"India",21
+"516","Cluj-napoca",0.48,14.44,"Romania",30.0833333333333
+"517","Craiova",0.48,14.44,"Romania",30.0833333333333
+"518","Graz",2.39,50.38,"Austria",21.0794979079498
+"519","Lusaka",0.51,22.76,"Zambia",44.6274509803922
+"520","Bangalore",0.32,17.79,"India",55.59375
+"521","Innsbruck",2.93,54.18,"Austria",18.4914675767918
+"522","Bhopal",0.3,7.41,"India",24.7
+"523","Athens",1.52,32.57,"Greece",21.4276315789474
+"524","Iasi",0.48,21.65,"Romania",45.1041666666667
+"525","Chennai",0.22,14.83,"India",67.4090909090909
+"526","Coimbatore",0.2,4.45,"India",22.25
+"527","Oradea",0.6,16.84,"Romania",28.0666666666667
+"528","Doha",1.37,38.45,"Qatar",28.0656934306569
+"529","Delhi",0.35,11.49,"India",32.8285714285714
+"530","Linz",2.39,47.45,"Austria",19.8535564853557
+"531","Gurgaon",0.37,14.83,"India",40.0810810810811
+"532","Sibiu",0.36,12.03,"Romania",33.4166666666667
+"533","Guwahati",0.15,4.45,"India",29.6666666666667
+"534","Ad-Dammam",0.8,47.99,"Saudi Arabia",59.9875
+"535","Vienna",2.39,52.11,"Austria",21.8033472803347
+"536","Hyderabad",0.24,11.86,"India",49.4166666666667
+"537","Indore",0.3,7.41,"India",24.7
+"538","Jaipur",0.3,7.41,"India",24.7
+"539","Kingston-Jamaica",0.85,58.88,"Jamaica",69.2705882352941
+"540","Tripoli",0.71,24.97,"Libya",35.169014084507
+"541","Timisoara",0.48,14.44,"Romania",30.0833333333333
+"542","Kolkata",0.15,3.89,"India",25.9333333333333
+"543","Jeddah-Jiddah",0.53,39.99,"Saudi Arabia",75.4528301886792
+"544","Lucknow-Lakhnau",0.27,7.41,"India",27.4444444444444
+"545","Ludhiana",0.15,7.41,"India",49.4
+"546","Madurai",0.22,11.49,"India",52.2272727272727
+"547","Mumbai",0.22,7.41,"India",33.6818181818182
+"548","Riyadh",0.53,53.33,"Saudi Arabia",100.622641509434
+"549","Mysore",0.27,9.27,"India",34.3333333333333
+"550","Nagpur",0.19,4.45,"India",23.4210526315789
+"551","Pune",0.3,14.83,"India",49.4333333333333
+"552","Harare",0.5,30,"Zimbabwe",60
+"553","Minsk",0.25,15,"Belarus",60
+"554","Surat",0.28,7.41,"India",26.4642857142857
+"555","Thane",0.37,7.41,"India",20.027027027027
+"556","Vadodara",0.15,7.04,"India",46.9333333333333
+"557","Charlottesville",0.75,20,"United States",26.6666666666667
+"558","St-John's",1.66,51.73,"Canada",31.1626506024096
+"559","Visakhapatnam",0.15,11.49,"India",76.6
+"560","Moscow",0.7,25.56,"Russia",36.5142857142857
+"561","Bandung",0.38,13.5,"Indonesia",35.5263157894737
+"562","Damascus",0.15,20,"Syria",133.333333333333
+"563","Jakarta",0.26,11.25,"Indonesia",43.2692307692308
+"564","Antwerp",2.82,49.94,"Belgium",17.709219858156
+"565","Lviv",0.16,4.02,"Ukraine",25.125
+"566","Novosibirsk",0.31,9.37,"Russia",30.2258064516129
+"567","Brussels",2.28,53.2,"Belgium",23.3333333333333
+"568","Gent",2.61,40.78,"Belgium",15.6245210727969
+"569","Surabaya",0.38,15,"Indonesia",39.4736842105263

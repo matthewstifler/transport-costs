@@ -1,6 +1,7 @@
 require(stringr)
 require(dplyr)
 require(rjson)
+require(ggplot2)
 
 #-----Getting Data-----
 cities <- system("node data.js", intern = T)  #data.js contains console.log(citiesNames.toString()) command
@@ -58,6 +59,8 @@ my.theme <- theme(axis.ticks.x = element_line(size = 0),
                   panel.grid.minor.y = element_line(colour = "red", linetype = "dotted", size = 0.25),
                   plot.margin = margin(c(10,10,10,10, "pt"))
 ) 
+
+#-----Plots-----
 
 #Worst places
 ggplot(prices.df[order(prices.df$ratio, decreasing = T),] %>% head(n = 30), aes(reorder(city, -ratio), ratio, fill = continent)) + 

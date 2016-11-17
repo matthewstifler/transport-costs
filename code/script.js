@@ -15,7 +15,7 @@ casper.start();
 
 //nesting is required in order to share scope
 casper.then(function() {
-  var output = numbeo.getNumbeoValues(links, 40);
+  var output = numbeo.getNumbeoValues(links, number);
   this.then(function() {
     fs.write("./data/data.json", JSON.stringify(output));
   });

@@ -8,6 +8,7 @@ var fs = require('fs');
 
 //loading file with links
 var links = require("../data/urls.json");
+var nodeNumber = casper.cli.args;
 
 var start = Date.now();
 
@@ -15,7 +16,7 @@ casper.start();
 
 //nesting is required in order to share scope
 casper.then(function() {
-  var output = numbeo.getNumbeoValues(links, number);
+  var output = numbeo.getNumbeoValues(links, nodeNumber);
   this.then(function() {
     fs.write("./data/data.json", JSON.stringify(output));
   });

@@ -8,7 +8,7 @@ var fs = require('fs');
 
 //loading file with links
 var links = require("../data/urls.json");
-var nodeNumber = casper.cli.args;
+var nodeNumber = casper.cli.args[0];
 
 var start = Date.now();
 

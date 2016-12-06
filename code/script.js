@@ -18,7 +18,7 @@ casper.start();
 casper.then(function() {
   var output = numbeo.getNumbeoValues(links, nodeNumber);
   this.then(function() {
-    fs.write("./data/data.json", JSON.stringify(output));
+    fs.write("../data/download-" + nodeNumber  + ".json", JSON.stringify(output));
   });
 });
 
